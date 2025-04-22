@@ -6,6 +6,7 @@ public class PaymentRequest {
     public long getPaymentId() {
         return paymentId;
     }
+
     public void setPaymentId(long paymentId) {
         this.paymentId = paymentId;
     }
